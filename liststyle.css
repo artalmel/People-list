@@ -1,0 +1,17 @@
+html, body{
+    position: relative;}
+
+ul {
+    position: relative;
+    list-style-type: none;
+    border: 1px solid;
+    max-width: 250px;
+    padding-left: 0;
+}
+li{
+    position: relative;
+    height: 30px;
+    line-height: 30px;
+    margin: 1px 0;
+    cursor: pointer;
+}
